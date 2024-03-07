@@ -22,6 +22,10 @@
   "container.stonecutter": "",
   "container.upgrade": "",
 
+  "entity.minecraft.chest_minecart": "",
+  "entity.minecraft.furnace_minecart": "",
+  "entity.minecraft.hopper_minecart": "",
+
   "merchant.trades": "",
 
   "block.minecraft.beacon.primary": "",
