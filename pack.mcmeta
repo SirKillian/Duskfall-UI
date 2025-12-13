@@ -1,6 +1,7 @@
 {
  "pack": {
-   "pack_format": 34,
-   "description": ["",{"text":"Duskfall UI\n","bold":true,"color":"#4577ad"},{"text":"Minecraft 1.21","color":"#c498ed"}]
+   "min_format": 65.0, 
+   "max_format": 75.0,
+   "description": ["",{"text":"Duskfall UI\n","bold":true,"color":"#4577ad"},{"text":"Minecraft 1.21.11","color":"#c498ed"}]
  }
 }

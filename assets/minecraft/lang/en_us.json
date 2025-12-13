@@ -5,6 +5,7 @@
   "container.cartography_table": "",
   "container.chest": "",
   "container.chestDouble": "",
+  "container.crafter": "",
   "container.crafting": "",
   "container.creative": "Item Selection",
   "container.dispenser": "",
@@ -22,9 +23,14 @@
   "container.stonecutter": "",
   "container.upgrade": "",
 
+  "entity.minecraft.donkey": "",
   "entity.minecraft.chest_minecart": "",
   "entity.minecraft.furnace_minecart": "",
   "entity.minecraft.hopper_minecart": "",
+  "entity.minecraft.horse": "",
+  "entity.minecraft.mule": "",
+  "entity.minecraft.nautilus": "",
+  "entity.minecraft.zombie_nautilus": "",
 
   "merchant.trades": "",
 
